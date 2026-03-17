@@ -1,8 +1,37 @@
 # Hi, I'm Sapir Talmi 
 
-Software developer with a CS & Physics background from Tel Aviv University,
-currently building an engineering simulation platform.
+Software developer with a CS & Physics background from Tel Aviv University.
 I love solving complex problems and bringing both technical depth and 
 leadership to everything I build.
 
 Feel free to reach out about any of my repos or projects!
+
+
+---
+
+## 🌱 GrowMateAI
+An end-to-end smart gardening solution combining IoT hardware, cloud 
+architecture, and AI analytics to monitor and optimize plant care.
+Built with ESP32-C3 sensors, React Native, Python on Azure Functions, 
+and OpenAI for real-time plant diagnosis.
+
+[🔗 Check it out](https://sapirtalmi.github.io/GrowMateAI/#home)
+
+---
+
+## 🗺️ WhatSapp
+A cross-platform social map app where users build curated collections 
+of places, share them with friends, and broadcast their real-time location.
+Built with React Native, FastAPI, PostgreSQL/PostGIS on GCP, and Google 
+Gemini for AI-powered place recommendations and travel guides.
+
+[🔗 GitHub](https://github.com/sapirtalmi/WhatSapp)
+
+---
+
+## 🔢 SymNMF Clustering
+Implementation of the Symmetric Non-negative Matrix Factorization algorithm 
+for clustering data points, with a C backend for performance and a Python 
+interface for usability. Includes a comparison against K-Means clustering.
+
+[🔗 GitHub](https://github.com/sapirtalmi/SymNMF)
