@@ -6,6 +6,15 @@ leadership to everything I build.
 
 Feel free to reach out about any of my repos or projects!
 
+---
+
+## 🗺️ WhatSapp
+A cross-platform social map app where users build curated collections 
+of places, share them with friends, and broadcast their real-time location.
+Built with React Native, FastAPI, PostgreSQL/PostGIS on GCP, and Google 
+Gemini for AI-powered place recommendations and travel guides.
+
+[🔗 GitHub](https://github.com/sapirtalmi/WhatSapp)
 
 ---
 
@@ -16,16 +25,6 @@ Built with ESP32-C3 sensors, React Native, Python on Azure Functions,
 and OpenAI for real-time plant diagnosis.
 
 [🔗 Check it out](https://sapirtalmi.github.io/GrowMateAI/#home)
-
----
-
-## 🗺️ WhatSapp
-A cross-platform social map app where users build curated collections 
-of places, share them with friends, and broadcast their real-time location.
-Built with React Native, FastAPI, PostgreSQL/PostGIS on GCP, and Google 
-Gemini for AI-powered place recommendations and travel guides.
-
-[🔗 GitHub](https://github.com/sapirtalmi/WhatSapp)
 
 ---
 
