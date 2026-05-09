@@ -30,7 +30,7 @@ architecture, and AI analytics to monitor and optimize plant care.
 Built with ESP32-C3 sensors, React Native, Python on Azure Functions, 
 and OpenAI for real-time plant diagnosis.
 
-[🔗 Check it out](https://sapirtalmi.github.io/GrowMateAI/#home)
+[🔗 GitHub](https://sapirtalmi.github.io/GrowMateAI/#home)
 
 ---
 
