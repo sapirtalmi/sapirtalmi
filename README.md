@@ -17,6 +17,12 @@ Gemini for AI-powered place recommendations and travel guides.
 [🔗 GitHub](https://github.com/sapirtalmi/WhatSapp)
 
 ---
+## 🎧 Mellow — Audio Reasoning Under Real-World Constraints
+A deep learning research project where the real learning happened beyond the model. Debugging distributed training failures most tutorials never mention, then diving into loss curves, t-SNE visualizations, and spectrograms to understand what the model actually learned. Seeing DSP fundamentals and transformer behavior come alive in real audio data, end-to-end: from raw waveforms to model outputs to insights.
+
+[🔗 GitHub](https://github.com/sapirtalmi/mellow_apdl_project)
+
+---
 
 ## 🌱 GrowMateAI
 An end-to-end smart gardening solution combining IoT hardware, cloud 
